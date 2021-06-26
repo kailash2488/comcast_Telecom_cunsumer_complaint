@@ -18,7 +18,7 @@ Data Dictionary
 
 Analysis Task
 
--	Import data into R environment.
+-	Import data into python environment.
 -	Provide the trend chart for the number of complaints at monthly and daily granularity levels.
 -	Provide a table with the frequency of complaint types.
 -	Which complaint types are maximum i.e., around internet, network issues, or across any other domains?
